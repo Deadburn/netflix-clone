@@ -1,7 +1,7 @@
 
 # Scrimba Frond End Career Path Project
 
-Netflix Clone With Advanced React Libraies React and Firebase
+Netflix Clone with advanced React libraies and Firebase
 
 # Dependencies
 
